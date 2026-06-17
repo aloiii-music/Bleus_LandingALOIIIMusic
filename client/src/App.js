@@ -14,7 +14,7 @@ function App() {
     <div className="app">
       {/* NAV */}
       <nav className={`nav ${scrolled ? 'nav--scrolled' : ''}`}>
-        <span className="nav__logo">J.D.</span>
+        <span className="nav__logo">ALOIII</span>
         <div className="nav__links">
           <a href="#professional" className="nav__link">Professional</a>
           <a href="#music" className="nav__link">Music</a>
@@ -29,8 +29,8 @@ function App() {
           <div className="hero__overlay" />
         </div>
         <div className="hero__content">
-          <p className="hero__eyebrow">Portfolio</p>
-          <h1 className="hero__title">Jamie Doe</h1>
+          <p className="hero__eyebrow">Bleu's Landing</p>
+          <h1 className="hero__title">Angel Ortiz III</h1>
           <p className="hero__tagline">Engineer · Musician · Linguist</p>
         </div>
         <div className="hero__scroll-hint"><span /></div>
@@ -97,7 +97,7 @@ function App() {
       <footer className="footer">
         <div className="footer__rule" />
         <div className="footer__inner">
-          <p className="footer__copy">© 2026 Jamie Doe</p>
+          <p className="footer__copy">© 2026 ALOIII</p>
           <div className="footer__actions">
             <a href="mailto:hello@jamiedoe.com" className="footer__link">Contact</a>
             <span className="footer__sep">·</span>
